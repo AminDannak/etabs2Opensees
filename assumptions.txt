@@ -1,0 +1,2 @@
+ASSUMPTIONS OF THE PROGRAM
+- only frames parallel to X axis can be chosen
